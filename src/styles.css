@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+table {
+    width: 70%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
